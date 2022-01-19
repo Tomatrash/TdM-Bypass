@@ -1,2 +1,5 @@
 # TdM-Bypass
-Bypass by TdM for atack dados general
+Bypass por TdM para ataque dados geral
+Em
+DDoS cliente
+Em
